@@ -1,2 +1,2 @@
-# Sandbox-Studio-Square
-placeholder text
+# Sandbox Studio Square
+Yes
