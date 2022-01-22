@@ -1,2 +1,2 @@
 # Sandbox Studio Square
-Yes
+Please don't approach me. This project was acidentally public and I'm embarassed.
